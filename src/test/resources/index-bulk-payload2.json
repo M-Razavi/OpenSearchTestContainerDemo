@@ -1,0 +1,41 @@
+{ "index": { "_index": "books" } }
+{ "title": "The Lord of the Rings", "author": "J.R.R. Tolkien", "publisher": "George Allen & Unwin", "genre": "Fantasy", "publication_date": "1954-07-29" }
+{ "index": { "_index": "books" } }
+{ "title": "Harry Potter and the Sorcerer's Stone", "author": "J.K. Rowling", "publisher": "Bloomsbury", "genre": "Fantasy", "publication_date": "1997-06-26" }
+{ "index": { "_index": "books" } }
+{ "title": "The Da Vinci Code", "author": "Dan Brown", "publisher": "Doubleday", "genre": "Mystery", "publication_date": "2003-03-18" }
+{ "index": { "_index": "books" } }
+{ "title": "The Girl on the Train", "author": "Paula Hawkins", "publisher": "Riverhead Books", "genre": "Thriller", "publication_date": "2015-01-13" }
+{ "index": { "_index": "books" } }
+{ "title": "Gone Girl", "author": "Gillian Flynn", "publisher": "Crown Publishing Group", "genre": "Thriller", "publication_date": "2012-06-05" }
+{ "index": { "_index": "books" } }
+{ "title": "The Fault in Our Stars", "author": "John Green", "publisher": "Dutton Books", "genre": "Young Adult", "publication_date": "2012-01-10" }
+{ "index": { "_index": "books" } }
+{ "title": "The Martian", "author": "Andy Weir", "publisher": "Crown Publishing Group", "genre": "Science Fiction", "publication_date": "2011-09-28" }
+{ "index": { "_index": "books" } }
+{ "title": "The Book of Joy", "author": "Dalai Lama XIV", "publisher": "Avery Publishing Group", "genre": "Non-Fiction", "publication_date": "2016-09-20" }
+{ "index": { "_index": "books" } }
+{ "title": "Becoming", "author": "Michelle Obama", "publisher": "Crown Publishing Group", "genre": "Autobiography", "publication_date": "2018-11-13" }
+{ "index": { "_index": "books" } }
+{ "title": "The Power of Habit", "author": "Charles Duhigg", "publisher": "Random House", "genre": "Non-Fiction", "publication_date": "2012-02-28" }
+{ "index": { "_index": "books" } }
+{ "title": "The Very Hungry Caterpillar", "author": "Eric Carle", "publisher": "World Publishing Company", "genre": "Children's", "publication_date": "1969-03-23" }
+{ "index": { "_index": "books" } }
+{ "title": "Where the Crawdads Sing", "author": "Delia Owens", "publisher": "G.P. Putnam's Sons", "genre": "Fiction", "publication_date": "2018-08-14" }
+{ "index": { "_index": "books" } }
+{ "title": "The Silent Patient", "author": "Alex Michaelides", "publisher": "Celadon Books", "genre": "Thriller", "publication_date": "2019-02-05" }
+{ "index": { "_index": "books" } }
+{ "title": "Educated", "author": "Tara Westover", "publisher": "Random House", "genre": "Memoir", "publication_date": "2018-02-20" }
+{ "index": { "_index": "books" } }
+{ "title": "The Midnight Library", "author": "Matt Haig", "publisher": "Viking", "genre": "Fiction", "publication_date": "2020-09-29" }
+{ "index": { "_index": "books" } }
+{ "title": "The Nightingale", "author": "Kristin Hannah", "publisher": "St. Martin's Press", "genre": "Historical Fiction", "publication_date": "2015-02-03" }
+{ "index": { "_index": "books" } }
+{ "title": "The Seven Husbands of Evelyn Hugo", "author": "Taylor Jenkins Reid", "publisher": "Atria Books", "genre": "Fiction", "publication_date": "2017-06-13" }
+{ "index": { "_index": "books" } }
+{ "title": "The Tattooist of Auschwitz", "author": "Heather Morris", "publisher": "Harper Paperbacks", "genre": "Historical Fiction", "publication_date": "2018-09-04" }
+{ "index": { "_index": "books" } }
+{ "title": "The Rosie Project", "author": "Graeme Simsion", "publisher": "Simon & Schuster", "genre": "Fiction", "publication_date": "2013-01-30" }
+{ "index": { "_index": "books" } }
+{ "title": "The Giver of Stars", "author": "Jojo Moyes", "publisher": "Pamela Dorman Books", "genre": "Historical Fiction", "publication_date": "2019-10-08" }
+

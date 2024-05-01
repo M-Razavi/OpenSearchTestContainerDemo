@@ -1,0 +1,21 @@
+{ "index": { "_index": "books" } }
+{ "title": "To Kill a Mockingbird", "author": "Harper Lee", "publisher": "J. B. Lippincott & Co.", "genre": "Fiction", "publication_date": "1960-07-11" }
+{ "index": { "_index": "books" } }
+{ "title": "1984", "author": "George Orwell", "publisher": "Secker & Warburg", "genre": "Fiction", "publication_date": "1949-06-08" }
+{ "index": { "_index": "books" } }
+{ "title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "publisher": "Charles Scribner's Sons", "genre": "Fiction", "publication_date": "1925-04-10" }
+{ "index": { "_index": "books" } }
+{ "title": "Pride and Prejudice", "author": "Jane Austen", "publisher": "Thomas Egerton", "genre": "Fiction", "publication_date": "1813-01-28" }
+{ "index": { "_index": "books" } }
+{ "title": "The Hobbit", "author": "J.R.R. Tolkien", "publisher": "George Allen & Unwin", "genre": "Fantasy", "publication_date": "1937-09-21" }
+{ "index": { "_index": "books" } }
+{ "title": "The Alchemist", "author": "Paulo Coelho", "publisher": "HarperCollins", "genre": "Fiction", "publication_date": "1988-08-01" }
+{ "index": { "_index": "books" } }
+{ "title": "The Hunger Games", "author": "Suzanne Collins", "publisher": "Scholastic Press", "genre": "Fiction", "publication_date": "2008-09-14" }
+{ "index": { "_index": "books" } }
+{ "title": "The Kite Runner", "author": "Khaled Hosseini", "publisher": "Riverhead Books", "genre": "Fiction", "publication_date": "2003-05-29" }
+{ "index": { "_index": "books" } }
+{ "title": "The Book Thief", "author": "Markus Zusak", "publisher": "Picador", "genre": "Fiction", "publication_date": "2005-03-14" }
+{ "index": { "_index": "books" } }
+{ "title": "The Catcher in the Rye", "author": "J.D. Salinger", "publisher": "Little, Brown and Company", "genre": "Fiction", "publication_date": "1951-07-16" }
+
